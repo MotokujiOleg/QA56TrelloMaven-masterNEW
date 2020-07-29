@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * Loads test suite configuration from resource files.
+ * Loads test suite configuration from resource files.+
  */
 public class SuiteConfiguration {
 
